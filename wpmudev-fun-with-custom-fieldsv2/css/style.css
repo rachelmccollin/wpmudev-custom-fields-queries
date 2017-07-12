@@ -1,0 +1,21 @@
+/************************************************************
+Styling for plugin to display the random favorite things list 
+************************************************************/
+
+
+/* style button */
+.favorite .button {
+	display: block;
+	padding: 1em;
+	background-color: #ea9920;
+	text-align: center;
+	margin: 2em auto;
+	width: 50%;
+}
+.favorite .button:hover {
+	background-color: #444444;
+}
+.favorite .button a:link,
+.favorite .button a:visited {
+	color: #fff;
+}
